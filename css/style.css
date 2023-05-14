@@ -1,0 +1,24 @@
+h1 {
+    margin-left: 70px;
+    font-size: 45px;
+    font-family: sans-serif;
+}
+
+h2 {
+    margin-left: 70px;
+    font-size: 30px;
+    font-family: sans-serif;
+}
+
+.policy {
+    margin-left: 70px;
+    align-content: center;
+    font-size: 21px;
+    width: 760px;
+}
+
+hr {
+    margin: 0;
+    color: #b78f23;
+    background-color: #444444;
+}
